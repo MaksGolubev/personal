@@ -11,5 +11,9 @@
     "url": "git@github.com-maksbrother:MaksGolubev/personal.git"
   },
   "author": "Maks",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "my-module-dark-theme": "^0.0.4",
+    "personal-build-frontender": "^0.1.0"
+  }
 }
